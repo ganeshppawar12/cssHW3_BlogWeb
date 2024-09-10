@@ -1,0 +1,41 @@
+/* body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.data{
+    width: 30%;
+}
+p{
+    color: rgba(0, 0, 0, 0.6);
+}
+
+/* .text-box {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.text-box:nth-child(1) {
+    color: white;
+}
+
+.text-box:nth-child(2) {
+    color: white;
+}
+
+.text-box:nth-child(3) {
+    color: #00a4b4; /* Cyan color for the third text *
+} */
